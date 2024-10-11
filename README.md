@@ -9,4 +9,4 @@ I'm a Data Data Analyst
 Tableau, Power BI, Google Colab, Jupyter Lab, Python (pandas, matplotlib, requests, ftplib, beautifulsoup, pymysql), Excel (vlookup)
 
 **Connect with me:**
-t.me/misha_tgshv
+[Telegram](https://t.me/misha_tgshv)
